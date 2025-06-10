@@ -273,9 +273,7 @@ weighted avg       0.94      0.94      0.94       800
 **Dr. M.V. Vijaya Saradhi**  
 *Dean & Professor*  
 *Department of Computer Science and Engineering*  
-*ACE Engineering College*  
-📧 Email: dean.cse@acegroup.ac.in  
-🏛️ Institution: ACE Engineering College, Hyderabad
+*🏛️ Institution: ACE Engineering College, Hyderabad*
 
 ---
 
@@ -395,14 +393,6 @@ This project is developed exclusively for **academic and educational purposes** 
 - ❌ **Prohibited**: Commercial use, redistribution without permission
 - ❌ **Restricted**: Modification and redistribution without attribution
 
-### 📄 Academic Reference
-If you use this work in your research or academic projects, please reference:
-```
-Thalla, M.K., Kolipaka, R., Neelam, U.K., & Digutla, R.K. (2024). 
-"YouTube Spam Detector using BERT: An AI Laboratory Project". 
-Department of Computer Science and Engineering, ACE Engineering College. 
-Supervised by Dr. M.V. Vijaya Saradhi.
-```
 
 ---
 
