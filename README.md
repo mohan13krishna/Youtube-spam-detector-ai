@@ -117,7 +117,7 @@ pip --version
 ### Installation Steps
 ```bash
 # Clone the repository
-git clone https://github.com/mohan13krishna/youtube-spam-detector-ai.git
+git clone https://github.com/your-username/youtube-spam-detector-ai.git
 cd youtube-spam-detector-ai
 
 # Install required packages
@@ -273,7 +273,9 @@ weighted avg       0.94      0.94      0.94       800
 **Dr. M.V. Vijaya Saradhi**  
 *Dean & Professor*  
 *Department of Computer Science and Engineering*  
-*🏛️ Institution: ACE Engineering College, Hyderabad*
+*ACE Engineering College*  
+📧 Email: dean.cse@acegroup.ac.in  
+🏛️ Institution: ACE Engineering College, Hyderabad
 
 ---
 
@@ -317,32 +319,9 @@ This project represents a collaborative effort by a dedicated team of AI enthusi
 ### 🤝 Team Roles & Contributions
 
 🔹 **1. Project Lead & Data Engineer** – *Mohan Krishna Thalla*  
-**Responsibilities:**
-* Team coordination and version control (Git/GitHub management)
-* Dataset sourcing, cleaning, and comprehensive preprocessing
-* Data quality assurance and consistency validation
-* Project structure setup and technical documentation
-
 🔹 **2. Model Developer** – *Rakesh Kolipaka*  
-**Responsibilities:**
-* BERT-based spam classification model implementation
-* Model training, fine-tuning, and optimizer configurations
-* Hugging Face Transformers integration with PyTorch
-* Model evaluation and performance metrics analysis
-
 🔹 **3. System Integrator & CLI Engineer** – *Uday Kiran Neelam*  
-**Responsibilities:**
-* Interactive command-line interface (CLI) development
-* Tokenizer, model loading, and prediction pipeline integration
-* Cross-platform compatibility and usability optimization
-* Runtime performance optimization for CPU/GPU environments
-
-🔹 **4. Research Analyst & Documentation Lead** – *Ranjith Kumar Digutla*  
-**Responsibilities:**
-* Spam detection techniques and NLP methodologies research
-* Technology stack documentation and methodology writing
-* Presentation materials and final project report preparation
-* Academic formatting and comprehensive acknowledgments
+🔹 **4. Research Analyst & Documentation Lead** – *Ranjith Kumar Digutla*
 
 ---
 
@@ -393,6 +372,14 @@ This project is developed exclusively for **academic and educational purposes** 
 - ❌ **Prohibited**: Commercial use, redistribution without permission
 - ❌ **Restricted**: Modification and redistribution without attribution
 
+### 📄 Academic Reference
+If you use this work in your research or academic projects, please reference:
+```
+Thalla, M.K., Kolipaka, R., Neelam, U.K., & Digutla, R.K. (2024). 
+"YouTube Spam Detector using BERT: An AI Laboratory Project". 
+Department of Computer Science and Engineering, ACE Engineering College. 
+Supervised by Dr. M.V. Vijaya Saradhi.
+```
 
 ---
 
@@ -431,9 +418,9 @@ For academic discussions and questions:
 ### 🔗 Connect With Us
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-org/youtube-spam-detector-ai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:team@university.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohan13krishna)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohan-krishna-thalla-a423a3301)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohankrishnathalla6@gmail.com)
 
 </div>
 
