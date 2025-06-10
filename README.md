@@ -222,8 +222,7 @@ weighted avg       0.94      0.94      0.94       800
 **Dr. M.V. Vijaya Saradhi**  
 *Dean & Professor*  
 *Department of Computer Science and Engineering*  
-📧 Email: [dean.cse@university.edu]  
-🔗 Profile: [Academic Profile](https://university.edu/faculty/mvvs)
+
 
 ---
 
