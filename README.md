@@ -117,8 +117,8 @@ pip --version
 ### Installation Steps
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/youtube-spam-detector-ai.git
-cd youtube-spam-detector-ai
+git clone https://github.com/mohan13krishna/Youtube-spam-detector-ai.git
+cd Youtube-spam-detector-ai
 
 # Install required packages
 pip install torch transformers pandas numpy scikit-learn
@@ -274,8 +274,6 @@ weighted avg       0.94      0.94      0.94       800
 *Dean & Professor*  
 *Department of Computer Science and Engineering*  
 *ACE Engineering College*  
-📧 Email: dean.cse@acegroup.ac.in  
-🏛️ Institution: ACE Engineering College, Hyderabad
 
 ---
 
@@ -289,28 +287,24 @@ This project represents a collaborative effort by a dedicated team of AI enthusi
 <a href="https://github.com/mohan13krishna">
 <img src="https://github.com/mohan13krishna.png" width="100px;" alt="Mohan Krishna Thalla"/><br />
 <sub><b>Mohan Krishna Thalla</b></sub><br />
-<sub>Team Lead & ML Engineer</sub>
 </a>
 </td>
 <td align="center">
 <a href="https://github.com/rakeshkolipakaace">
 <img src="https://github.com/rakeshkolipakaace.png" width="100px;" alt="Rakesh Kolipaka"/><br />
 <sub><b>Rakesh Kolipaka</b></sub><br />
-<sub>NLP Specialist</sub>
 </a>
 </td>
 <td align="center">
 <a href="https://github.com/udaykiran2102">
 <img src="https://github.com/udaykiran2102.png" width="100px;" alt="Udaykiran Neelam"/><br />
 <sub><b>Udaykiran Neelam</b></sub><br />
-<sub>Data Engineer</sub>
 </a>
 </td>
 <td align="center">
 <a href="https://github.com/ranjith93250">
 <img src="https://github.com/ranjith93250.png" width="100px;" alt="Ranjith Kumar Digutla"/><br />
 <sub><b>Ranjith Kumar Digutla</b></sub><br />
-<sub>Backend Developer</sub>
 </a>
 </td>
 </tr>
@@ -318,10 +312,10 @@ This project represents a collaborative effort by a dedicated team of AI enthusi
 
 ### 🤝 Team Roles & Contributions
 
-🔹 **1. Project Lead & Data Engineer** – *Mohan Krishna Thalla*  
+🔹 **1. Project Lead & ML Engineer** – *Mohan Krishna Thalla*  
 🔹 **2. Model Developer** – *Rakesh Kolipaka*  
-🔹 **3. System Integrator & CLI Engineer** – *Uday Kiran Neelam*  
-🔹 **4. Research Analyst & Documentation Lead** – *Ranjith Kumar Digutla*
+🔹 **3. Data Engineer** – *Uday Kiran Neelam*  
+🔹 **4. Results Analyst** – *Ranjith Kumar Digutla*
 
 ---
 
@@ -369,17 +363,6 @@ This project is developed exclusively for **academic and educational purposes** 
 ### ⚖️ Usage Terms
 - ✅ **Permitted**: Academic study, research, and educational use
 - ✅ **Allowed**: Code review, learning, and academic citation
-- ❌ **Prohibited**: Commercial use, redistribution without permission
-- ❌ **Restricted**: Modification and redistribution without attribution
-
-### 📄 Academic Reference
-If you use this work in your research or academic projects, please reference:
-```
-Thalla, M.K., Kolipaka, R., Neelam, U.K., & Digutla, R.K. (2024). 
-"YouTube Spam Detector using BERT: An AI Laboratory Project". 
-Department of Computer Science and Engineering, ACE Engineering College. 
-Supervised by Dr. M.V. Vijaya Saradhi.
-```
 
 ---
 
@@ -430,7 +413,7 @@ For academic discussions and questions:
 
 ### 🌟 Star this repository if you found it helpful!
 
-**Made with ❤️ by the AI Laboratory Team**  
+**Made with ❤️ by the AI Laboratory Team - 13**  
 *Department of Computer Science and Engineering*
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=youtube-spam-detector-ai)
