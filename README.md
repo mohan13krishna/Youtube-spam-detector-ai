@@ -109,7 +109,7 @@ pip --version
 ### Installation Steps
 ```bash
 # Clone the repository
-git clone https://github.com/udaykiran2102/Youtube-spam-detector-ai.git
+git clone https://github.com/mohan13krishna/Youtube-spam-detector-ai.git
 cd Youtube-spam-detector-ai
 
 # Install required packages
@@ -408,6 +408,6 @@ For academic discussions and questions:
 *Department of Computer Science and Engineering*
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=youtube-spam-detector-ai)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/youtube-spam-detector-ai)
+![GitHub last commit](https://img.shields.io/github/last-commit/mohan13krishna/youtube-spam-detector-ai)
 
 </div>
