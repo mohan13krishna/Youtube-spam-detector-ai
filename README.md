@@ -1,11 +1,11 @@
 # 🎯 YouTube Spam Detector using BERT
-
+     
 <p align="center">  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E53E3E&center=true&vCenter=true&random=false&width=600&lines=YouTube+Spam+Detection+System;BERT-based+NLP+Model;Real-time+Comment+Classification;Built+by+AI+Enthusiasts" alt="Typing SVG" />
-  </a> 
-</p>
-
+  </a>  
+</p>   
+     
 <div align="center">
 
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
@@ -52,18 +52,9 @@ An advanced AI-powered spam detection system for YouTube comments leveraging sta
 
 <div align="center">
 
-```mermaid
-graph TB
-    A[Raw YouTube Comments] --> B[Data Preprocessing]
-    B --> C[BERT Tokenization]
-    C --> D[BERT Model Fine-tuning]
-    D --> E[Binary Classification]
-    E --> F[Spam/Not Spam Prediction]
-    
-    G[Model Training] --> H[Validation & Testing]
-    H --> I[Performance Metrics]
-    I --> J[Model Deployment]
-```
+<img src="Architectural Diagram.png" alt="YouTube Spam Detector Architecture" width="800"/>
+
+*Figure 1: Complete system architecture showing the data flow from raw YouTube comments through BERT processing to final spam classification*
 
 </div>
 
@@ -95,6 +86,7 @@ youtube-spam-detector-ai/
 │   └── ⚠️  model.safetensors (Not included due to large file size)
 │
 ├── 🐍 spamdetector.py
+├── 🖼️ Architectural Diagram.png
 ├── 📖 README.md
 └── 📄 requirements.txt
 ```
@@ -117,7 +109,7 @@ pip --version
 ### Installation Steps
 ```bash
 # Clone the repository
-git clone https://github.com/mohan13krishna/Youtube-spam-detector-ai.git
+git clone https://github.com/udaykiran2102/Youtube-spam-detector-ai.git
 cd Youtube-spam-detector-ai
 
 # Install required packages
@@ -404,7 +396,6 @@ For academic discussions and questions:
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohan13krishna)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohan-krishna-thalla-a423a3301)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohankrishnathalla6@gmail.com)
-
 </div>
 
 ---
