@@ -1,4 +1,4 @@
-# 🎯 YouTube Spam Detector using BERT 
+# 🎯 YouTube Spam Detector using BERT  
      
 <p align="center">       
   <a href="https://git.io/typing-svg"> 
