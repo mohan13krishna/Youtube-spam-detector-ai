@@ -12,7 +12,7 @@ import re
 # Define paths
 DATASET_PATH = os.path.join('dataset', 'Youtube-Spam-Dataset.csv')
 MODEL_SAVE_PATH = 'spam_detector_model'
- 
+  
 # Load and preprocess the dataset
 def load_and_preprocess_data(csv_path):
     if not os.path.exists(csv_path):
