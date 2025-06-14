@@ -46,7 +46,7 @@ class SpamDataset(Dataset):
     
     def __len__(self):
         return len(self.texts)
-    
+   
     def __getitem__(self, idx):
         text = self.texts[idx]
         label = self.labels[idx]
