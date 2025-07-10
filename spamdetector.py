@@ -4,7 +4,7 @@ import numpy as np
 import torch 
 from torch.utils.data import Dataset, DataLoader   
 from transformers import BertTokenizer, BertForSequenceClassification      
-from torch.optim import AdamW       
+from torch.optim import AdamW        
 from sklearn.model_selection import train_test_split        
 from sklearn.metrics import classification_report   
 import re  
