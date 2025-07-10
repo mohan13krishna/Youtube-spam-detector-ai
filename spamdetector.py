@@ -10,7 +10,7 @@ from sklearn.metrics import classification_report
 import re 
    
 # Define paths
-DATASET_PATH = os.path.join('dataset', 'Youtube-Spam-Dataset.csv')
+DATASET_PATH = os.path.join('dataset', 'Youtube-Spam-Dataset.csv') 
 MODEL_SAVE_PATH = 'spam_detector_model'
    
 # Load and preprocess the dataset
