@@ -11,7 +11,7 @@
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/🤗%20Transformers-yellow.svg)
-![License](https://img.shields.io/badge/license-Academic-green.svg)
+![License](https://img.shields.io/badge/license-Academic-green.svg) 
 ![Status](https://img.shields.io/badge/status-Active-brightgreen.svg)
 
 </div>
