@@ -6,7 +6,7 @@
   </a>        
 </p>      
        
-<div align="center"> 
+<div align="center">  
       
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
