@@ -7,7 +7,7 @@
 </p> 
 <div align="center">  
         
-![Python](https://img.shields.io/badge/python-v3.8+-blue.svg) 
+![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/🤗%20Transformers-yellow.svg)
 ![License](https://img.shields.io/badge/license-Academic-green.svg) 
